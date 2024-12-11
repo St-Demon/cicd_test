@@ -3,7 +3,6 @@
 <html>
 <body>
     <h2>Does it run?</h2>
-    <h2>Does it run?</h2>
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
